@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskan170999/CI-CD-Sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskan170999/CI-CD-Sample/issues"
+  },
+  "homepage": "https://github.com/muskan170999/CI-CD-Sample#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
